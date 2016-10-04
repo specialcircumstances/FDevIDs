@@ -1,3 +1,8 @@
+FDevIDs, Extended
+====
+This is forked from EDCS/FDevIDs and additional columns have been added to map between various companion apps. It's really for my own use, but I thought it might be useful to others so it's here if you want it.
+
+
 IDs returned from the FDev Companion API
 ====
 
